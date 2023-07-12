@@ -1,4 +1,4 @@
-# Tire detection project summary
+# Car weight classification project summary
 
 A short description and summary of my work on this project
 
