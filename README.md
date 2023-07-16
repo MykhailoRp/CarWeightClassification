@@ -27,7 +27,7 @@ To clean up data script was written that discarded similar frames and found the 
 
 XML files with bounding boxes were created by hand for each frame.
 
-Latter in training filters for exposure, distortion, crop, etc. 
+Later in training filters for exposure, distortion, crop, etc. 
 were applied to expand the database size and provide different case scenarios
 
 ### Model training
