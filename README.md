@@ -46,7 +46,7 @@ Retrained pre-trained models were used.
 ### Model testing
 
 Below you can see the examples, bounding box represents the area that was given to the object classification model, 
-if a wheel was identified as a back or trailer wheel. 
+if a wheel was identified as a back or a trailer wheel. 
 
 - -1 - wheel was identified as front
 - 0 - wheel was identified as back or trailer and predicted to be from a transport with **no** cargo
